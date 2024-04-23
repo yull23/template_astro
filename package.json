@@ -10,8 +10,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.6.3",
     "@astrojs/check": "^0.5.10",
+    "astro": "^4.6.3",
     "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.1.1",
+    "eslint-plugin-astro": "^0.34.0",
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.13.0"
   }
 }
